@@ -1,0 +1,33 @@
+.place-form {
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.form-control {
+  margin: 1rem 0;
+}
+
+.place-form div {
+  margin: 1rem 0;
+}
+
+.place-form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.place-form input,
+.place-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.place-form button {
+  padding: 0.5rem 1.5rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
